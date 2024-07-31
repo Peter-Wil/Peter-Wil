@@ -1,11 +1,10 @@
-## Hi there 👋
-
-My name is Peter. I am an expert in security systems design and technical support. I have a Bachelor's degree in Information Systems and several years of professional experience in computer and security systems integration. Over the past 10 years, I have served as a technical department manager for a variety of companies where I successfully led teams in the design installation and implementation of video surveillance, access control and data communications systems.
-
+## Hi there 👋 
 <a href="https://www.linkedin.com/in/peter-wilutis-667662a6">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<br />
+My name is Peter. I am an expert in security systems design and technical support. I have a Bachelor's degree in Information Systems and several years of professional experience in computer and security systems integration. Over the past 10 years, I have served as a technical department manager for a variety of companies where I successfully led teams in the design installation and implementation of video surveillance, access control and data communications systems.
+<br />
 <!--
 **Peter-Wil/Peter-Wil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
